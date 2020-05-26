@@ -1,0 +1,21 @@
+{
+  "name": "typescript-",
+  "version": "1.0.0",
+  "description": "ts学习笔记与记录",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc base/test.ts",
+    "dev":"tsc base/test.ts --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RianMan/typescript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RianMan/typescript-/issues"
+  },
+  "homepage": "https://github.com/RianMan/typescript-#readme"
+}
